@@ -20,3 +20,6 @@ JS Essentials :-
 # Framework
     - NextJS
     - Angular
+
+
+export -> named, default
