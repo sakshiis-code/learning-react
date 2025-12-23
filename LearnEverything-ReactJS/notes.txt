@@ -1,0 +1,22 @@
+What is ReactJS?
+    JS library -> UI (frontend)
+    Developed by Meta (Facebook) -> 2013
+
+JS Essentials :-
+    1. Basics - variables, loops, if/else (conditionals)
+    2. Functions - Arrow function, return statement
+    3. Arrays - map, filter, reduce, forEach, destructuring
+    4. Objects
+    5. ES6+ Features - let, const
+    6. Asynchronous
+    7. JavaScript - promises, fetch API, async await
+
+
+# Library
+    - GSAP
+    - Lenis
+    - ReactJS
+
+# Framework
+    - NextJS
+    - Angular
