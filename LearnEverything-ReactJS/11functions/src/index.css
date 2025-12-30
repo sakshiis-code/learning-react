@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+.page1 {
+    height: 400px;
+    width: 674px;
+    background-color: yellowgreen;
+}
+
+.page2 {
+    height: 400px;
+    width: 674px;
+    background-color: rgb(50, 205, 200);
+}
+
+.page3 {
+    height: 400px;
+    width: 674px;
+    background-color: rgb(197, 50, 205);
+}
